@@ -22,7 +22,7 @@ window.addEventListener('DOMContentLoaded', event => {
         }
 
     };
-
+//ALTERAÇÃO DO LEANDRO MARIM
     // Shrink the navbar 
     navbarShrink();
 
